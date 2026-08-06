@@ -66,7 +66,7 @@ pip install -r requirements.txt
 2. Run application
 streamlit run app.py
 3. Open in browser
-http://localhost:8501
+https://ai-food-safety-advisor-awvstrb4ud3u43crt7kn6g.streamlit.app/
 ⚠️ Limitations
 Dataset size is limited
 Accuracy depends on image quality
